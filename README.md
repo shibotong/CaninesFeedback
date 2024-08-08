@@ -1,2 +1,2 @@
 # CaninesFeedback
-收集Canines issue
+本仓库意在收集使用Canines期间遇到的问题和bug
